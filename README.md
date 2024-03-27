@@ -8,7 +8,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://hafiz-subhan.vercel.app/).
 
 ---
 
@@ -59,7 +59,7 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/hafiz_subhan.git
 
 cd developer-portfolio
 ```
@@ -96,7 +96,7 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/RanaSubhaan/hafiz_subhan/tree/main/utils/data).
 
 Eg:
 
@@ -109,21 +109,14 @@ export const personalData = {
   email: "its.hafizsubhan@gmail.com",
   phone: "+923097873547",
   address: "Lahore, Pakistan",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
+  github: "https://github.com/RanaSubhaan",
+  facebook: "https://www.facebook.com/rana.subuaan/",
   linkedIn: "https://www.linkedin.com/in/hafiz-muhammad-subhan-shahid-628a66183/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  twitter: "https://twitter.com/itx_ranasubhan",
+  stackOverflow: "https://stackoverflow.com/users/23832672/rana-subhan",
+  leetcode: "https://leetcode.com/ranasubhan/",
   resume: "...",
 };
-```
-
-`devUsername` Used for fetching blog from `dev.to`.
-
----
-
 ---
 
 # Packages Used :package:
