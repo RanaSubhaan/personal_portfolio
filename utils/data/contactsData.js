@@ -1,11 +1,10 @@
 export const contactsData = {
-    email: 'abusaid7388@gmail.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-    github: 'https://github.com/said7388',
-    facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-    twitter: 'https://twitter.com/said7388',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    email: 'its.hafizsubhan@gmail.com',
+    phone: '+923097873547',
+    address: 'Shahdara, Lahore, Pakistan - 54950 ',
+    github: 'https://github.com/RanaSubhaan',
+    facebook: 'https://www.facebook.com/rana.subuaan/',
+    linkedIn: 'https://www.linkedin.com/in/hafiz-muhammad-subhan-shahid-628a66183/',
+    twitter: 'https://twitter.com/itx_ranasubhan',
+    stackOverflow: 'https://stackoverflow.com/users/23832672/rana-subhan',
 }
